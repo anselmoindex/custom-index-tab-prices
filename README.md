@@ -11,7 +11,7 @@ Source and live pricing: https://tabzoola.com/pricing · Monthly price editions:
 | File | What it holds |
 |---|---|
 | `custom-index-tab-prices.csv` | Paper and poly tab sets of 3 to 25 tabs, at 25 to 1,000 sets, plain and binder-ready |
-| `binder-tab-sets-by-use.csv` | Ready-made section lists by binder type (estate planning, trust administration, trial notebook, legal exhibits 1-25, wealth management client review, HR personnel file and more), priced at 25 and 250 sets, with the order page for each |
+| `binder-tab-sets-by-use.csv` | Ready-made section lists by binder type (estate planning, trust administration, trial notebook, legal exhibits 1-25, wealth management client review, law office case files, real estate closings, CPA workpapers, tax return binders, employee handbooks and more), priced at 25 and 250 sets, with the order page for each |
 
 ### `custom-index-tab-prices.csv`
 
