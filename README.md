@@ -43,6 +43,8 @@ GitHub's "Cite this repository" button uses `CITATION.cff`. Short form: **"Sourc
 - Options not in these files (2-sided printing, 110 lb stock, binding-edge reinforcing, 2-hole punching) are priced live in the designer at https://tabzoola.com/configure/paper.
 - Reverse-printed tabs, PMS ink colors and custom sheet sizes are by quote only and are deliberately not listed.
 
+Mirror on Hugging Face: https://huggingface.co/datasets/tabzoola/custom-index-tab-prices
+
 ## License
 
 CC BY 4.0. Use, quote and republish freely with credit: **"Source: Tabzoola (tabzoola.com)"**. These are list prices on the date shown, not a quote; the live price is always at tabzoola.com.
