@@ -13,7 +13,7 @@ Source and live pricing: https://tabzoola.com/pricing · Monthly price editions:
 | `custom-index-tab-prices.csv` | Paper and poly tab sets of 3 to 25 tabs, at 25 to 1,000 sets, plain and binder-ready |
 | `binder-capacity.csv` | How many sheets fit in every 3-ring binder size, 1/2" to 5", round ring and D-ring, on 20, 24 and 28 lb paper, with the recommended fill (15% room to turn pages) and how many tab dividers fit |
 | `binder-tab-sets-by-use.csv` | Ready-made section lists by binder type (estate planning, trust administration, trial notebook, legal exhibits 1-25, wealth management client review, law office case files, real estate closings, CPA workpapers, tax return binders, employee handbooks and more), priced at 25 and 250 sets, with the order page for each |
-| `court-tab-rules.csv` | Court rules on exhibit and appendix tabs from 16 courts (California, New York, Texas, Kentucky, immigration court and the Board of Immigration Appeals, the 2nd, 9th and 11th Circuits, federal district and bankruptcy courts), including the courts that ban protruding tabs. One row per rule, with the verbatim quote, the official source URL and the date it was checked. Guide: https://tabzoola.com/guides/court-exhibit-tab-rules |
+| `court-tab-rules.csv` | Court rules on exhibit and appendix tabs from 21 courts (California, New York, Texas, Kentucky, Pennsylvania, immigration court and the Board of Immigration Appeals, the 2nd, 5th, 9th, 11th and Federal Circuits, federal district and bankruptcy courts), including the courts that ban protruding tabs. One row per rule, with the verbatim quote, the official source URL and the date it was checked. Guide: https://tabzoola.com/guides/court-exhibit-tab-rules |
 
 ### `custom-index-tab-prices.csv`
 
