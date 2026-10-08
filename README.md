@@ -16,6 +16,8 @@ Source and live pricing: https://tabzoola.com/pricing · Monthly price editions:
 | `court-tab-rules.csv` | Court rules on exhibit and appendix tabs from 21 courts (California, New York, Texas, Kentucky, Pennsylvania, immigration court and the Board of Immigration Appeals, the 2nd, 5th, 9th, 11th and Federal Circuits, federal district and bankruptcy courts), including the courts that ban protruding tabs. One row per rule, with the verbatim quote, the official source URL and the date it was checked. Guide: https://tabzoola.com/guides/court-exhibit-tab-rules |
 | `medical-chart-sections.csv` | Chart divider section lists by care setting (physician practice, outpatient clinic, hospital inpatient unit, long-term care resident chart, behavioral health, dental, chiropractic, veterinary, clinical research regulatory binder): the sections in filing order, the tab count and the typical tab cut. Common conventions, not clinical guidance. Live copy: https://tabzoola.com/medical-chart-sections.csv |
 | `index-tab-questions.csv` / `.jsonl` | 890 question-and-answer pairs about custom index tabs, binder dividers and how they are made, ordered and used, in Tabzoola's own words: the FAQs from 124 product pages and 34 guides on tabzoola.com, each with its topic and source URL. Plain-language reference answers (tab cuts, Mylar, collation, punching, lead times, court and binder conventions), not legal or clinical advice. |
+| `most-ordered-tab-titles.csv` | What people actually print on index tabs: 924 tab titles ordered by three or more different companies, from 68,984 printed tabs on 5,823 jobs for 804 companies in Tabzoola's own production records, 1996–2026. Ranked by how many companies ordered each title, with jobs, first and last year, and the typical position in the set. Brand, store and building names removed; no customer is identifiable. Page: https://tabzoola.com/most-ordered-tab-titles |
+| `most-ordered-tab-sets.csv` | The complete tab sets (every title, in order) that three or more different companies ordered exactly alike, same source and period |
 
 ### `custom-index-tab-prices.csv`
 
@@ -54,6 +56,17 @@ Tabzoola's binder capacity figures, the same arithmetic as the free calculator a
 | `publisher`, `checked` | Always Tabzoola, and the export date. Prices quoted inside answers are the live prices on that date |
 
 The same rows in JSON Lines: `index-tab-questions.jsonl`.
+
+### `most-ordered-tab-titles.csv`
+
+| Column | Meaning |
+|---|---|
+| `rank`, `title` | Rank by companies, and the title as most customers typed it |
+| `family` | `word`, `number`, `letter`, `roman numeral`, `exhibit number`, `numbered heading` (Section 3, Appendix B, Building 7…) or `month` |
+| `companies`, `jobs` | How many different companies ordered the title (an account's many offices count once), and on how many jobs it appeared |
+| `first_year`, `last_year`, `typical_position` | When it was first and last ordered, and where it usually sits in the set, counted from the front |
+
+Aggregated by `scripts/tab-titles-from-adi.py` in the tabzoola repository; the exclusion rules are in the script. `most-ordered-tab-sets.csv` lists whole sets with `titles_in_order` separated by ` | `.
 
 ## How to cite
 

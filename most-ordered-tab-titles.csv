@@ -1,0 +1,925 @@
+rank,title,family,companies,jobs,first_year,last_year,typical_position,publisher,source,license
+1,MISCELLANEOUS,word,97,215,2003,2026,5.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+2,INSURANCE,word,93,211,2003,2024,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+3,1,number,73,735,1998,2026,1.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+4,CORRESPONDENCE,word,71,162,2003,2025,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+5,3,number,70,641,1998,2026,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+6,4,number,70,623,1998,2026,4.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+7,2,number,69,636,1998,2026,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+8,5,number,66,593,1998,2026,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+9,6,number,65,568,1998,2026,5.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+10,7,number,60,551,1998,2026,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+11,8,number,54,508,1998,2026,6.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+12,Introduction,word,52,209,2003,2022,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+13,9,number,48,482,1998,2026,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+14,MISC,word,48,82,2003,2024,6.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+15,10,number,46,481,1998,2026,7.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+16,NOTES,word,44,139,2003,2023,5.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+17,PROGRESS NOTES,word,37,100,2003,2024,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+18,Table of Contents,word,34,719,1999,2026,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+19,11,number,31,422,2003,2026,6.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+20,APPRAISAL,word,31,56,2015,2022,4.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+21,MORTGAGE,word,31,47,2014,2022,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+22,12,number,29,411,2003,2026,7.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+23,Appendix,word,29,271,2003,2022,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+24,Tax Returns,word,28,90,2005,2023,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+25,OTHER,word,28,68,2004,2026,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+26,14,number,27,374,2004,2026,7.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+27,15,number,27,373,2004,2026,8.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+28,Other Documents,word,27,56,2004,2025,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+29,CREDIT REPORT,word,26,41,2015,2022,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+30,GUARANTY,word,26,40,2015,2021,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+31,13,number,25,379,2004,2026,6.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+32,Index,word,25,115,2003,2024,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+33,APPLICATION,word,25,52,2005,2025,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+34,I,letter,24,203,1998,2024,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+35,B,letter,22,356,1996,2026,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+36,A,letter,22,351,1996,2026,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+37,FORMS,word,22,77,2004,2026,6.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+38,C,letter,21,329,1996,2026,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+39,CREDIT REPORTS,word,21,27,2015,2021,6.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+40,D,letter,20,318,1996,2026,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+41,Glossary,word,20,152,2003,2021,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+42,Overview,word,20,112,2003,2024,1.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+43,F,letter,19,340,1996,2025,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+44,E,letter,19,309,1996,2026,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+45,Resources,word,19,53,2003,2025,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+46,General Information,word,19,51,2004,2025,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+47,Estate Planning,word,18,63,2005,2023,6.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+48,V,letter,17,137,2003,2023,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+49,X-RAY,word,17,42,2003,2018,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+50,LAB,word,17,33,2003,2016,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+51,PERSONAL FINANCIAL STATEMENTS,word,17,20,2015,2021,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+52,18,number,16,223,2004,2026,7.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+53,20,number,16,219,2003,2026,9.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+54,Executive Summary,word,16,135,2003,2025,1.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+55,MAPS,word,16,91,2004,2019,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+56,Appendices,word,16,44,2003,2024,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+57,G,letter,15,319,1998,2025,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+58,16,number,15,227,2004,2026,5.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+59,17,number,15,222,2004,2026,6.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+60,19,number,15,222,2004,2026,8.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+61,II,letter,15,76,2003,2023,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+62,IV,letter,15,66,2003,2023,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+63,HOSPITAL,word,15,46,2003,2022,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+64,Warranty,word,15,43,2003,2025,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+65,Trust,word,15,31,2014,2026,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+66,Will,word,15,26,2015,2026,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+67,UCC FORMS,word,15,21,2015,2021,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+68,ACCESSORIES,word,14,36,2004,2024,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+69,Power of Attorney,word,14,35,2009,2026,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+70,Safety,word,14,29,2004,2022,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+71,MEDICATIONS,word,14,19,2004,2024,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+72,H,letter,13,125,1998,2024,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+73,MAY,month,13,20,2004,2026,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+74,Social Security,word,13,15,2018,2022,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+75,Appendix A,numbered heading,12,128,2003,2026,1.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+76,J,letter,12,124,2002,2024,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+77,X,letter,12,113,2003,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+78,III,roman numeral,12,69,2003,2023,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+79,HISTORY & PHYSICAL,word,12,33,2004,2022,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+80,LIVING WILL,word,12,31,2003,2026,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+81,Certificate of Trust,word,12,21,2014,2025,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+82,Asset Summary,word,12,13,2018,2022,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+83,marketing,word,11,70,2003,2022,4.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+84,Financial Statements,word,11,68,2005,2022,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+85,VII,roman numeral,11,53,2003,2023,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+86,REPORTS,word,11,42,2004,2025,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+87,Funding Instructions,word,11,24,2004,2026,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+88,Umbrella,word,11,24,2008,2025,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+89,Financial,word,11,22,2003,2024,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+90,Instructions,word,11,19,2008,2026,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+91,Statements,word,11,17,2014,2025,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+92,Pricing,word,11,16,2004,2018,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+93,OLD NOTES & DOCUMENTS,word,11,14,2015,2021,9.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+94,Tax Return,word,11,14,2015,2022,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+95,SPREAD SHEETS,word,11,13,2015,2021,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+96,Appendix B,numbered heading,10,117,2003,2026,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+97,TABLES,numbered heading,10,66,2004,2016,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+98,VI,letter,10,59,2003,2023,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+99,lighting,word,10,52,2006,2021,5.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+100,Schedule,word,10,40,2004,2025,1.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+101,TITLE INSURANCE,word,10,23,2015,2022,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+102,CASH FLOW,word,10,19,2015,2022,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+103,COMMENTS,word,10,18,2016,2022,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+104,LAB/X-RAY,word,10,17,2015,2016,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+105,Annuities,word,10,14,2005,2022,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+106,Income Plan,word,10,14,2018,2022,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+107,L,letter,9,88,2003,2023,5.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+108,K,letter,9,87,2003,2023,5.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+109,M,letter,9,86,2003,2023,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+110,28,number,9,77,2004,2023,6.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+111,S,letter,9,76,2002,2023,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+112,30,number,9,72,2003,2023,7.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+113,MEMOS,word,9,64,2004,2021,1.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+114,References,word,9,50,2003,2024,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+115,VIII,roman numeral,9,47,2003,2023,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+116,LABS,word,9,40,2004,2026,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+117,Benefits,word,9,32,2004,2017,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+118,FEDERAL,word,9,32,2004,2026,1.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+119,Welcome,word,9,31,2003,2024,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+120,Referrals,word,9,23,2005,2025,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+121,FLOOD,word,9,21,2015,2022,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+122,NOTE,word,9,17,2015,2021,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+123,PHYSICIAN ORDERS,word,9,16,2003,2024,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+124,LIEN SEARCH,word,9,15,2015,2022,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+125,Taxes,word,9,15,2010,2023,6.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+126,Real Estate,word,9,13,2006,2026,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+127,CORPORATE FINANCIAL STATEMENTS,word,9,12,2015,2021,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+128,Managed Accounts,word,9,11,2018,2022,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+129,SECURITY AGREEMENT,word,9,10,2003,2021,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+130,Appendix C,numbered heading,8,108,2003,2026,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+131,Appendix D,numbered heading,8,91,2003,2026,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+132,N,letter,8,85,2003,2023,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+133,O,letter,8,81,2003,2023,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+134,21,number,8,80,2004,2023,6.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+135,22,number,8,80,2004,2023,7.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+136,25,number,8,79,2004,2023,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+137,26,number,8,78,2004,2023,5.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+138,23,number,8,77,2004,2023,8.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+139,24,number,8,77,2004,2023,9.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+140,27,number,8,76,2004,2023,5.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+141,AGENDA,word,8,74,2004,2022,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+142,29,number,8,70,2004,2023,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+143,31,number,8,60,2004,2023,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+144,Legal Documents,word,8,52,2005,2025,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+145,40,number,8,51,2003,2023,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+146,benches,word,8,36,2004,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+147,TRAINING,word,8,36,2005,2022,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+148,Windows,word,8,21,2004,2012,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+149,RADIOLOGY,word,8,17,2003,2018,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+150,GENERAL,word,8,16,2004,2023,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+151,SECURITY AGREEMENTS,word,8,16,2015,2021,5.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+152,April,month,8,14,2004,2022,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+153,December,month,8,14,2004,2022,6.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+154,February,month,8,14,2004,2022,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+155,January,month,8,14,2004,2022,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+156,March,month,8,14,2004,2022,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+157,November,month,8,14,2004,2022,5.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+158,October,month,8,14,2004,2022,4.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+159,September,month,8,14,2004,2022,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+160,Contracts,word,8,13,2007,2021,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+161,Financial Power of Attorney,word,8,12,2015,2026,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+162,LIFE INSURANCE,word,8,12,2004,2020,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+163,FINANCIAL STATEMENT,word,8,9,2015,2021,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+164,BLANK,word,7,77,2010,2026,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+165,37,number,7,74,2004,2023,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+166,P,letter,7,74,2004,2023,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+167,T,letter,7,74,2004,2023,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+168,Q,letter,7,73,2004,2023,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+169,R,letter,7,73,2004,2023,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+170,U,letter,7,73,2004,2023,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+171,W,letter,7,73,2004,2023,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+172,Y,letter,7,73,1998,2023,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+173,Z,letter,7,72,2004,2023,5.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+174,Appendix F,numbered heading,7,71,2004,2024,1.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+175,38,number,7,66,2004,2023,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+176,43,number,7,60,2004,2023,4.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+177,41,number,7,58,2004,2023,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+178,42,number,7,58,2004,2023,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+179,44,number,7,58,2004,2023,5.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+180,32,number,7,57,2004,2023,5.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+181,36,number,7,56,2004,2023,9.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+182,closets,word,7,53,2004,2014,6.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+183,fixtures,word,7,52,2006,2020,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+184,35,number,7,51,2004,2023,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+185,Appendix G,numbered heading,7,50,2004,2024,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+186,39,number,7,49,2004,2023,6.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+187,Appendix H,numbered heading,7,49,2004,2024,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+188,IX,letter,7,41,2003,2023,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+189,porch,word,7,41,2004,2014,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+190,Exhibits,exhibit number,7,34,2004,2020,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+191,100,number,7,30,2003,2023,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+192,ORIENTATION,word,7,30,2004,2024,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+193,Financials,word,7,29,2004,2021,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+194,Contacts,word,7,27,2004,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+195,TROUBLESHOOTING,word,7,23,2004,2023,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+196,Living Trust,word,7,22,2008,2024,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+197,Millwork,word,7,22,2005,2022,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+198,Health Care,word,7,20,2004,2022,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+199,LEGAL,word,7,20,2003,2021,5.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+200,STATE,word,7,20,2004,2026,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+201,LABORATORY,word,7,19,2004,2018,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+202,Supplies,word,7,19,2004,2015,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+203,LAB REPORTS,word,7,18,2004,2016,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+204,MEDICATION,word,7,18,2003,2017,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+205,SURGERY,word,7,17,2003,2024,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+206,Education,word,7,14,2004,2023,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+207,INSPECTION,word,7,14,2006,2021,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+208,Additional Information,word,7,12,2003,2021,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+209,CORPORATE DOCUMENTS,word,7,12,2015,2022,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+210,Property,word,7,12,2015,2025,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+211,CONSENTS,word,7,11,2013,2022,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+212,Tools,word,7,11,2005,2015,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+213,Specifications,word,7,9,2005,2016,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+214,COMMUNICATIONS,word,7,8,2006,2020,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+215,Appendix E,numbered heading,6,81,2003,2024,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+216,Section 1,numbered heading,6,56,2003,2023,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+217,Section 2,numbered heading,6,56,2003,2023,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+218,Section 3,numbered heading,6,56,2003,2023,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+219,45,number,6,55,2004,2023,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+220,46,number,6,54,2004,2023,6.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+221,47,number,6,54,2004,2023,7.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+222,33,number,6,52,2004,2023,6.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+223,34,number,6,52,2004,2023,7.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+224,50,number,6,52,2003,2023,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+225,Section 4,numbered heading,6,52,2003,2023,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+226,48,number,6,50,2004,2023,8.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+227,49,number,6,50,2004,2023,5.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+228,stockroom,word,6,49,2006,2014,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+229,Section 6,numbered heading,6,46,2003,2023,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+230,Section 5,numbered heading,6,37,2003,2023,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+231,Section 7,numbered heading,6,36,2003,2023,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+232,Pharmacy,word,6,33,2005,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+233,Appendix I,numbered heading,6,32,2004,2024,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+234,INLAND MARINE,word,6,31,2004,2022,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+235,MAINTENANCE,word,6,31,2004,2026,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+236,Attachments,word,6,30,2005,2020,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+237,Last Will and Testament,word,6,24,2016,2024,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+238,Reference,word,6,22,2003,2019,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+239,Operations,word,6,20,2004,2022,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+240,GOALS,word,6,18,2004,2021,1.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+241,Memorial Instructions,word,6,16,2004,2022,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+242,PHYSICIANS ORDERS,word,6,16,2004,2016,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+243,STANDARDS,word,6,16,2003,2020,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+244,EXHIBIT A,exhibit number,6,15,2003,2014,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+245,Intro,word,6,14,2004,2023,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+246,INVENTORY,word,6,14,2004,2021,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+247,MAR,month,6,14,2004,2026,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+248,NURSES NOTES,word,6,13,2010,2016,6.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+249,PRICE LIST,word,6,13,2004,2020,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+250,Transportation,word,6,13,2004,2022,5.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+251,Equipment,word,6,12,2004,2022,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+252,EXHIBIT B,exhibit number,6,12,2003,2014,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+253,Property Agreement,word,6,12,2007,2024,4.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+254,Workers Compensation,word,6,12,2004,2025,4.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+255,Assessments,word,6,11,2004,2025,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+256,August,month,6,11,2004,2022,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+257,General Liability,word,6,11,2006,2016,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+258,Getting Started,word,6,11,2004,2026,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+259,History,word,6,11,2005,2021,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+260,July,month,6,11,2004,2022,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+261,June,month,6,11,2004,2022,5.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+262,Personal Information,word,6,11,2009,2022,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+263,PURCHASE ORDER,word,6,11,2004,2015,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+264,TITLE WORK,word,6,10,2017,2021,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+265,Consults,word,6,9,2004,2016,5.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+266,Financial Information,word,6,9,2008,2019,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+267,Trust Assets,word,6,9,2018,2026,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+268,Auto,word,6,8,2018,2025,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+269,Electrical,word,6,8,2004,2022,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+270,Nursing,word,6,8,2004,2015,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+271,APR,month,6,7,2004,2026,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+272,AUG,month,6,7,2004,2026,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+273,DEC,month,6,7,2004,2026,12,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+274,FEB,month,6,7,2004,2026,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+275,JAN,month,6,7,2004,2026,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+276,JOB DESCRIPTION,word,6,7,2014,2016,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+277,JUL,month,6,7,2004,2026,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+278,JUN,month,6,7,2004,2026,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+279,NOV,month,6,7,2004,2026,11,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+280,OCT,month,6,7,2004,2026,10,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+281,SEP,month,6,7,2004,2026,9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+282,UCC,word,6,7,2015,2020,5.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+283,OFFICE,word,5,54,2005,2025,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+284,Module 1,numbered heading,5,52,2004,2023,1.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+285,Module 2,numbered heading,5,52,2004,2023,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+286,Module 4,numbered heading,5,49,2005,2023,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+287,Module 5,numbered heading,5,47,2005,2023,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+288,Asset Protection,word,5,42,2005,2018,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+289,Module 3,numbered heading,5,39,2004,2023,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+290,Evaluations,word,5,37,2005,2021,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+291,51,number,5,33,2004,2023,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+292,52,number,5,33,2004,2023,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+293,53,number,5,33,2004,2023,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+294,BEST PRACTICES,word,5,32,2005,2022,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+295,AUDITS,word,5,31,2003,2019,5.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+296,Treatment Plan,word,5,29,2014,2023,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+297,Human Resources,word,5,28,2004,2022,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+298,FINANCIAL ANALYSIS,word,5,26,2004,2009,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+299,Calendar,word,5,25,2005,2023,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+300,Customer Service,word,5,24,2004,2022,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+301,Testimonials,word,5,24,2008,2020,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+302,DEMOGRAPHICS,word,5,23,2010,2022,1.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+303,DIVERSITY,word,5,23,2005,2013,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+304,COMMUNICATION,word,5,21,2004,2021,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+305,Exhibit I,exhibit number,5,21,2005,2015,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+306,Cooking,word,5,20,2014,2025,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+307,XI,letter,5,19,2003,2023,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+308,Glossary of Terms,word,5,18,2004,2023,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+309,CALENDARS,word,5,17,2004,2021,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+310,1A,word,5,16,2003,2017,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+311,1B,word,5,16,2003,2017,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+312,1C,word,5,16,2003,2017,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+313,2A,word,5,16,2003,2017,6.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+314,2E,word,5,16,2003,2017,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+315,2F,word,5,16,2003,2017,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+316,2G,word,5,16,2003,2017,5.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+317,3A,word,5,16,2003,2017,7.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+318,4A,word,5,16,2003,2017,9.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+319,Testing,word,5,16,2004,2023,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+320,1D,word,5,15,2003,2017,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+321,XIII,roman numeral,5,15,2004,2021,4.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+322,1E,word,5,14,2003,2017,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+323,Irrevocable Trust,word,5,14,2009,2024,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+324,Summary,word,5,14,2003,2022,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+325,Portfolio,word,5,13,2004,2022,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+326,XIV,roman numeral,5,13,2004,2021,5.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+327,5A,word,5,12,2005,2017,9.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+328,5B,word,5,12,2005,2017,10.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+329,DEEDS,word,5,12,2021,2026,5.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+330,3B,word,5,11,2006,2017,6.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+331,3C,word,5,11,2006,2017,7.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+332,CONTACT INFORMATION,word,5,11,2008,2024,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+333,Exhibit C,exhibit number,5,11,2003,2014,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+334,Exhibit D,exhibit number,5,11,2003,2014,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+335,Exhibit E,exhibit number,5,11,2003,2014,4.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+336,Handbook,word,5,11,2011,2022,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+337,Long Term Care,word,5,11,2004,2023,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+338,New Products,word,5,11,2004,2020,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+339,Roofing,word,5,11,2005,2022,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+340,TESTS,word,5,11,2007,2022,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+341,COLLATERAL,word,5,10,2006,2021,5.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+342,SALES,word,5,10,2007,2016,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+343,SCIENCE,word,5,10,2014,2021,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+344,Agreements,word,5,9,2004,2020,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+345,Dental,word,5,9,2004,2014,5.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+346,DISCLOSURES,word,5,9,2003,2020,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+347,Handouts,word,5,9,2005,2016,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+348,Talent,word,5,9,2003,2008,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+349,FINANCIAL DATA,word,5,8,2009,2025,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+350,HVAC,word,5,8,2003,2022,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+351,Medical,word,5,8,2004,2021,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+352,Nutrition,word,5,8,2004,2020,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+353,PARTS,numbered heading,5,8,2005,2023,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+354,Siding & Trim,word,5,8,2006,2020,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+355,Workbook,word,5,8,2004,2019,4.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+356,Advance Directives,word,5,7,2004,2021,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+357,APPLIANCES,word,5,7,2013,2022,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+358,Estate Plan,word,5,7,2009,2021,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+359,FLOOD DETERMINATION,word,5,7,2015,2021,6.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+360,Home,word,5,7,2005,2023,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+361,Loss Prevention,word,5,7,2005,2018,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+362,PLUMBING,word,5,7,2018,2022,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+363,TITLE,word,5,7,2017,2021,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+364,APPLICATIONS,word,5,6,2005,2021,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+365,ASSESSMENT,word,5,6,2005,2021,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+366,Behavioral Services,word,5,6,2010,2014,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+367,Habilitation Therapy,word,5,6,2010,2014,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+368,Observation Notes,word,5,6,2010,2014,7.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+369,MEETING NOTES,word,5,5,2017,2021,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+370,Section I,numbered heading,4,378,2003,2026,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+371,SUPPLEMENTAL INFORMATION,word,4,49,2007,2025,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+372,Education Planning,word,4,44,2005,2021,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+373,Retirement Planning,word,4,44,2005,2021,5.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+374,Advanced Approaches,word,4,41,2005,2015,1.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+375,Entity Structuring,word,4,41,2005,2015,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+376,Health Care Planning,word,4,41,2005,2015,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+377,Module 6,numbered heading,4,41,2005,2023,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+378,right sizing,word,4,41,2007,2014,5.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+379,Section 8,numbered heading,4,41,2003,2023,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+380,Succession Planning,word,4,41,2005,2015,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+381,Tax Savings,word,4,41,2005,2015,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+382,Section 10,numbered heading,4,38,2003,2017,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+383,BLANK TAB,word,4,32,2009,2022,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+384,State Tax Considerations,word,4,32,2005,2015,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+385,Module 7,numbered heading,4,31,2005,2023,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+386,JOB DESCRIPTIONS,word,4,29,2008,2015,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+387,Week 1,numbered heading,4,29,2004,2023,1.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+388,Week 2,numbered heading,4,29,2004,2023,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+389,Week 3,numbered heading,4,29,2004,2023,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+390,Week 4,numbered heading,4,29,2004,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+391,INVESTMENT SUMMARY,word,4,28,2003,2007,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+392,200,number,4,26,2003,2012,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+393,54,number,4,25,2004,2023,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+394,Contents,word,4,25,2003,2016,1.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+395,RECRUITING LOG,word,4,25,2007,2014,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+396,Trust Certification,word,4,25,2013,2024,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+397,INSTALLATION,word,4,24,2010,2024,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+398,PROPERTY DESCRIPTION,word,4,24,2004,2007,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+399,RECRUITING CALENDAR,word,4,24,2009,2014,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+400,60,number,4,23,2003,2023,11.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+401,Calibration,word,4,23,2006,2025,5.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+402,55,number,4,22,2004,2023,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+403,56,number,4,22,2004,2023,7.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+404,57,number,4,22,2004,2023,8.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+405,58,number,4,22,2004,2023,9.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+406,59,number,4,22,2004,2023,10.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+407,70,number,4,22,2003,2023,9.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+408,seasonal staffing,word,4,22,2009,2013,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+409,61,number,4,21,2004,2023,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+410,62,number,4,21,2004,2023,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+411,63,number,4,21,2004,2023,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+412,64,number,4,21,2004,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+413,65,number,4,21,2004,2023,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+414,66,number,4,21,2004,2023,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+415,67,number,4,21,2004,2023,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+416,68,number,4,21,2004,2023,7.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+417,69,number,4,21,2004,2023,8.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+418,71,number,4,21,2004,2023,10.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+419,72,number,4,21,2004,2023,11.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+420,Addenda,word,4,19,2004,2024,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+421,MARKETING CHECKLIST,word,4,18,2004,2007,9.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+422,Program Overview,word,4,18,2006,2013,1.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+423,Session 1,numbered heading,4,18,2004,2021,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+424,Session 2,numbered heading,4,18,2004,2021,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+425,Session 3,numbered heading,4,18,2004,2021,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+426,TOC,word,4,18,2007,2021,1.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+427,Valuation Analysis,word,4,18,2005,2021,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+428,FIGURES,word,4,17,2006,2023,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+429,INTRODUCTORY SECTION,word,4,17,2005,2021,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+430,Session 4,numbered heading,4,17,2004,2021,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+431,FINANCIAL SECTION,word,4,16,2005,2021,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+432,MINUTES,word,4,16,2004,2021,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+433,Associate Availability and Ability Chart,word,4,15,2005,2008,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+434,Current Education Materials,word,4,15,2005,2008,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+435,Daily Coverage Overview,word,4,15,2005,2008,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+436,Daily Routine,word,4,15,2005,2008,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+437,DISCHARGE,word,4,15,2004,2016,8.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+438,Railing & Accessories,word,4,15,2005,2011,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+439,Orders,word,4,14,2015,2024,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+440,PERSONAL EFFECTS,word,4,14,2004,2022,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+441,RELEASES,word,4,14,2015,2016,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+442,CHEMICALS,word,4,13,2014,2024,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+443,COMPLIANCE,word,4,13,2004,2021,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+444,FIRE DRILLS,word,4,13,2015,2022,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+445,XII,roman numeral,4,13,2004,2021,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+446,Blank Forms,word,4,12,2005,2012,1.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+447,SHIPMENT,word,4,12,2004,2013,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+448,cat,word,4,11,1998,2026,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+449,HUD,word,4,11,2018,2021,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+450,Lumber,word,4,11,2004,2011,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+451,POUR-OVER WILL,word,4,11,2004,2026,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+452,Session 5,numbered heading,4,11,2004,2021,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+453,Automobile,word,4,10,2014,2018,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+454,CERTIFICATION OF TRUST,word,4,10,2004,2023,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+455,CRIME,word,4,10,2004,2016,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+456,dog,word,4,10,1998,2026,1.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+457,HAZARD INSURANCE,word,4,10,2015,2021,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+458,Annuity,word,4,9,2019,2022,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+459,Meds,word,4,9,2011,2015,6.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+460,PAID NOTES,word,4,9,2018,2022,5.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+461,Professional,word,4,9,2018,2022,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+462,Session 6,numbered heading,4,9,2004,2021,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+463,STATISTICAL SECTION,word,4,9,2005,2021,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+464,Tax Planning,word,4,9,2010,2022,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+465,Welcome & Introduction,word,4,9,2003,2010,1.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+466,Employment,word,4,8,2003,2023,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+467,Recruiting,word,4,8,2005,2022,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+468,Revocable Living Trust,word,4,8,2019,2025,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+469,Roof & Basement,word,4,8,2006,2011,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+470,RULES,word,4,8,2013,2021,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+471,Services,word,4,8,2013,2025,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+472,TITLE PAPERS,word,4,8,2003,2019,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+473,WATERPROOFING SYSTEMS,word,4,8,2005,2010,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+474,Contract,word,4,7,2003,2025,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+475,Exhibit F,exhibit number,4,7,2003,2012,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+476,FINANCE,word,4,7,2003,2018,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+477,Financial Projections,word,4,7,2005,2022,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+478,GUARANTEES,word,4,7,2003,2022,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+479,Hardwoods & Softwoods,word,4,7,2005,2006,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+480,Policies,word,4,7,2004,2022,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+481,Risk Management,word,4,7,2004,2023,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+482,SCRIPTS,word,4,7,2015,2016,1.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+483,SPEAKERS,word,4,7,2004,2011,1.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+484,TITLE OPINION,word,4,7,2014,2020,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+485,BY-LAWS,word,4,6,2011,2017,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+486,Documentation,word,4,6,2004,2017,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+487,Emergency Contacts,word,4,6,2006,2021,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+488,EXHIBIT G,exhibit number,4,6,2003,2012,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+489,EXHIBIT H,exhibit number,4,6,2003,2012,5.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+490,Health,word,4,6,2010,2019,6.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+491,Integrated Progress Notes,word,4,6,2005,2014,7.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+492,PERSONAL FINANCIALS,word,4,6,2015,2021,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+493,POUR OVER WILL,word,4,6,2003,2023,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+494,Product Information,word,4,6,2004,2016,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+495,PRODUCTS,word,4,6,2005,2018,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+496,PSYCHOSOCIAL,word,4,6,2003,2005,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+497,Retirement Plan,word,4,6,2009,2021,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+498,Sport,word,4,6,2007,2008,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+499,TEST RESULTS,word,4,6,2003,2016,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+500,Transfer Documents,word,4,6,2005,2021,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+501,17. Index,word,4,5,2014,2016,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+502,83,number,4,5,2005,2024,5.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+503,Additional Services,word,4,5,2004,2015,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+504,Budget,word,4,5,2004,2021,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+505,CORPORATE RESOLUTIONS,word,4,5,2017,2020,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+506,Daily Schedule,word,4,5,2010,2014,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+507,ESCROW,word,4,5,2015,2019,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+508,Furniture,word,4,5,2005,2014,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+509,Health Care Directive,word,4,5,2018,2024,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+510,Installation Instructions,word,4,5,2003,2008,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+511,LETTERS,word,4,5,2005,2016,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+512,LOS/Rights,word,4,5,2010,2014,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+513,MAR/TOR,word,4,5,2010,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+514,PATIENT INFORMATION,word,4,5,2015,2022,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+515,PERSONAL TAX RETURNS,word,4,5,2015,2020,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+516,Physical Nutritional Management Plan (PNMP),word,4,5,2010,2014,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+517,Positive Behavior Support Plan,word,4,5,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+518,Profile Sheet,word,4,5,2010,2014,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+519,PROJECTIONS,word,4,5,2015,2020,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+520,PROMISSORY NOTES,word,4,5,2018,2019,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+521,PSP/Addendums,word,4,5,2010,2014,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+522,Psychiatry,word,4,5,2010,2014,5.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+523,Restraint Checklist,word,4,5,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+524,Side Effects Screening,word,4,5,2010,2014,6.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+525,Specific Program Objectives (SPO),word,4,5,2010,2014,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+526,About Us,word,4,4,2008,2018,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+527,ADVANCE DIRECTIVE,word,4,4,2004,2021,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+528,APPRAISALS,word,4,4,2007,2021,5.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+529,Business Auto,word,4,4,2015,2019,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+530,CERTIFICATES,word,4,4,2004,2022,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+531,Clothing Inventory,word,4,4,2010,2014,8.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+532,fish,word,4,4,2004,2026,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+533,Manual,word,4,4,2018,2025,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+534,Market Analysis,word,4,4,2004,2022,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+535,Section IV,numbered heading,3,450,2003,2026,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+536,Section II,numbered heading,3,373,2003,2026,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+537,Section III,numbered heading,3,356,2003,2026,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+538,Section VI,numbered heading,3,247,2003,2026,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+539,Section V,numbered heading,3,244,2003,2026,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+540,Section VII,numbered heading,3,244,2003,2026,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+541,Section VIII,numbered heading,3,177,2004,2026,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+542,Section IX,numbered heading,3,172,2004,2026,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+543,Section X,numbered heading,3,154,2004,2026,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+544,Section A,numbered heading,3,79,2003,2023,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+545,Section B,numbered heading,3,79,2003,2023,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+546,Section C,numbered heading,3,79,2003,2023,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+547,MEDICAL RECORDS,word,3,69,2009,2020,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+548,EMERGENCY ROOM,word,3,60,2009,2020,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+549,Properties,word,3,49,2007,2025,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+550,RECOMMENDED STRATEGIES,word,3,41,2005,2015,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+551,1ST ADMISSION,word,3,39,2009,2017,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+552,Section 9,numbered heading,3,39,2003,2016,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+553,Section 11,numbered heading,3,36,2003,2016,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+554,Section 12,numbered heading,3,35,2003,2016,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+555,2ND ADMISSION,word,3,34,2009,2017,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+556,Summary of Strategies,word,3,34,2005,2015,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+557,Worksheets,word,3,30,2005,2016,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+558,Employee Retention,word,3,29,2005,2011,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+559,HOUSEKEEPING,word,3,29,2006,2026,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+560,LAUNDRY,word,3,29,2006,2026,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+561,Week 5,numbered heading,3,27,2008,2023,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+562,Appendix J,numbered heading,3,26,2004,2024,4.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+563,Security,numbered heading,3,26,2004,2020,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+564,PERSONAL,word,3,25,2005,2015,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+565,300,number,3,24,2003,2012,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+566,Appendix K,numbered heading,3,23,2004,2024,1.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+567,BUSINESS,word,3,23,2005,2015,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+568,Module 8,numbered heading,3,23,2006,2023,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+569,400,number,3,22,2003,2012,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+570,Module 10,numbered heading,3,22,2006,2023,4.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+571,Module 9,numbered heading,3,22,2006,2023,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+572,GENERAL GUIDELINES,word,3,21,2010,2019,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+573,HEALTH & SAFETY POLICY,word,3,21,2010,2019,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+574,RISK ASSESSMENTS,word,3,21,2010,2019,7.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+575,Sample Communications,word,3,21,2008,2019,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+576,Training & Account Services,word,3,21,2008,2019,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+577,500,number,3,20,2003,2012,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+578,APPENDIX 4,numbered heading,3,18,2004,2023,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+579,APPENDIX 5,numbered heading,3,18,2004,2023,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+580,Appendix L,numbered heading,3,18,2006,2024,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+581,Appendix N,numbered heading,3,18,2006,2024,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+582,Cooling,word,3,18,2014,2025,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+583,Dish Machine,word,3,18,2014,2025,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+584,Hot / Cold Holding,word,3,18,2014,2025,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+585,Refrigerator / Freezer,word,3,18,2014,2025,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+586,Appendix M,numbered heading,3,17,2006,2024,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+587,Economic Overview,word,3,17,2005,2015,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+588,Exhibit II,exhibit number,3,17,2005,2015,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+589,Exhibit III,exhibit number,3,17,2005,2015,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+590,Exhibit IV,exhibit number,3,17,2005,2015,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+591,Exhibit V,exhibit number,3,17,2005,2015,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+592,Exhibit VI,exhibit number,3,17,2005,2015,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+593,Financial Statement Analysis,word,3,17,2005,2015,4.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+594,Industry Assessment,word,3,17,2005,2015,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+595,Valuation Methodologies,word,3,17,2005,2015,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+596,Financial Power(s) of Attorney,word,3,16,2013,2025,4.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+597,Health Care Power(s) of Attorney,word,3,16,2013,2025,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+598,Trust Summary,word,3,16,2013,2025,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+599,MARKET OVERVIEW,word,3,15,2004,2007,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+600,Prevention,word,3,15,2003,2006,2.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+601,Will(s),word,3,15,2013,2024,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+602,1. Introduction,word,3,14,2003,2018,1.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+603,DAILY,word,3,14,2004,2021,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+604,Exhibit X,exhibit number,3,14,2005,2013,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+605,Valuation Conclusion,word,3,14,2005,2013,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+606,1000,number,3,13,2004,2010,6.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+607,Components,word,3,13,2005,2015,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+608,CRISIS MANAGEMENT,word,3,13,2014,2019,9.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+609,Engineering,word,3,13,2004,2023,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+610,XVI,roman numeral,3,13,2004,2021,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+611,XVII,roman numeral,3,13,2004,2021,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+612,Appendix 1,numbered heading,3,12,2004,2023,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+613,Appendix 2,numbered heading,3,12,2004,2023,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+614,Appendix 3,numbered heading,3,12,2004,2023,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+615,Durable Power of Attorney,word,3,12,2003,2024,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+616,HAZARDOUS MATERIAL,word,3,12,2015,2019,9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+617,Housing,word,3,12,2004,2022,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+618,LADDER INSPECTIONS,word,3,12,2015,2019,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+619,Property Overview,word,3,12,2005,2008,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+620,Completed Forms,word,3,11,2005,2012,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+621,FIRE,word,3,11,2004,2012,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+622,GLASS,word,3,11,2004,2022,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+623,HAZARDOUS MATERIALS,word,3,11,2007,2018,8.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+624,Management Report,word,3,11,2003,2021,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+625,Module 11,numbered heading,3,11,2006,2023,1.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+626,Program Specifics,word,3,11,2005,2012,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+627,XV,letter,3,11,2004,2021,6.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+628,2(B),word,3,10,2010,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+629,2(C),word,3,10,2010,2014,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+630,2(D),word,3,10,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+631,2000,number,3,10,2004,2011,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+632,3(B)(1),word,3,10,2010,2014,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+633,3(B)(2),word,3,10,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+634,5(E),word,3,10,2010,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+635,5(F),word,3,10,2010,2014,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+636,5(G),word,3,10,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+637,5(J),word,3,10,2010,2014,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+638,5(K),word,3,10,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+639,5(L),word,3,10,2010,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+640,5(M),word,3,10,2010,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+641,5(N),word,3,10,2010,2014,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+642,5(O),word,3,10,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+643,6(A),word,3,10,2010,2014,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+644,6(B),word,3,10,2010,2014,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+645,6(E),word,3,10,2010,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+646,6(F),word,3,10,2010,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+647,6(G),word,3,10,2010,2014,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+648,6(H),word,3,10,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+649,6(J),word,3,10,2010,2014,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+650,8(A),word,3,10,2010,2014,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+651,8(C),word,3,10,2010,2014,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+652,COMPRESSORS,word,3,10,2004,2007,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+653,DIAGNOSING SYSTEM PROBLEMS,word,3,10,2004,2007,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+654,Imaging,word,3,10,2011,2016,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+655,Liability,word,3,10,2016,2022,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+656,MERCHANDISING,word,3,10,2003,2005,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+657,NORMAL CYCLE OPERATION,word,3,10,2004,2007,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+658,PRODUCT KNOWLEDGE,word,3,10,2004,2018,5.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+659,REFRIGERANTS,word,3,10,2004,2007,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+660,SUPERHEATING AND SUBCOOLING REFRIGERANT,word,3,10,2004,2007,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+661,Tracking Log,word,3,10,2005,2012,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+662,VALVES,word,3,10,2004,2016,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+663,1(A),word,3,9,2010,2014,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+664,1(B),word,3,9,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+665,2(A),word,3,9,2010,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+666,3(A)(1),word,3,9,2010,2014,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+667,3(A)(2),word,3,9,2010,2014,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+668,3(C)(1),word,3,9,2010,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+669,3(C)(2),word,3,9,2010,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+670,3(D)(1),word,3,9,2010,2014,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+671,3(D)(2),word,3,9,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+672,3(D)(3),word,3,9,2010,2014,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+673,3(D)(4),word,3,9,2010,2014,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+674,5(B),word,3,9,2010,2014,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+675,5(C),word,3,9,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+676,5(D),word,3,9,2010,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+677,5(H),word,3,9,2010,2014,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+678,5(I),word,3,9,2010,2014,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+679,6(C),word,3,9,2010,2014,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+680,6(D),word,3,9,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+681,6(I),word,3,9,2010,2014,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+682,6(K),word,3,9,2010,2014,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+683,6(L),word,3,9,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+684,6(M),word,3,9,2010,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+685,6(N),word,3,9,2010,2014,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+686,8(B),word,3,9,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+687,8(D),word,3,9,2010,2014,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+688,Affidavit of Trust,word,3,9,2008,2023,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+689,Change Orders,word,3,9,2014,2025,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+690,Composite Deck & Porch,word,3,9,2005,2007,2.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+691,Landscaping Amenities,word,3,9,2005,2007,3.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+692,LAST WILL & TESTAMENT,word,3,9,2015,2026,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+693,Life,word,3,9,2017,2023,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+694,MATH,word,3,9,2014,2021,4.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+695,Revocable Trust,word,3,9,2003,2024,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+696,Working Agreements,word,3,9,2005,2010,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+697,4(A),word,3,8,2010,2014,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+698,AB,letter,3,8,2005,2012,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+699,Developing Problem Costs,word,3,8,2005,2010,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+700,Employee Interviews,word,3,8,2005,2010,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+701,Management & Financial Statements,word,3,8,2005,2010,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+702,Organization,word,3,8,2004,2018,3.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+703,Overcoming Hedges,word,3,8,2005,2010,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+704,PATHOLOGY,word,3,8,2003,2016,4.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+705,Psych. of the Survey & Fundamentals,word,3,8,2005,2010,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+706,QR,letter,3,8,2005,2012,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+707,REFERRAL,word,3,8,2003,2008,8.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+708,Siding,word,3,8,2005,2006,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+709,ST,letter,3,8,2005,2012,5.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+710,Staffing,word,3,8,2003,2014,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+711,The Company Plan Meeting,word,3,8,2005,2010,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+712,The Institutional and Q & A Brochure,word,3,8,2005,2010,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+713,The Opening Conference,word,3,8,2005,2010,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+714,The Preliminary Findings Meeting,word,3,8,2005,2010,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+715,Trim,word,3,8,2005,2006,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+716,2B,word,3,7,2003,2007,6.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+717,2C,word,3,7,2003,2007,7.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+718,2D,word,3,7,2003,2007,8.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+719,3(C),word,3,7,2010,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+720,Credit Application,word,3,7,2004,2021,3.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+721,Employee Handbook,word,3,7,2004,2024,1.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+722,LAB TESTS,word,3,7,2015,2020,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+723,LOAN AGREEMENT,word,3,7,2003,2021,5.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+724,Map,word,3,7,2004,2019,1.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+725,MEMBERS,word,3,7,2006,2022,1.9,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+726,ORGANIZATIONAL DOCUMENTS,word,3,7,2014,2021,5.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+727,Provider Access,word,3,7,2008,2019,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+728,Recommendations,word,3,7,2011,2022,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+729,Sheep,word,3,7,1998,2012,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+730,STRATEGIC PLAN,word,3,7,2009,2021,2.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+731,Survey,word,3,7,2011,2017,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+732,Time Management,word,3,7,2004,2021,5.1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+733,1. Roles and Responsibilities,word,3,6,2004,2007,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+734,ACCESSORY PRODUCTS,word,3,6,2007,2010,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+735,Acoustical Products,word,3,6,2006,2009,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+736,Administration,word,3,6,2003,2010,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+737,Appendix V,numbered heading,3,6,2006,2024,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+738,AWNINGS,word,3,6,2016,2024,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+739,BOARD CERTIFICATION,word,3,6,2005,2020,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+740,Body,word,3,6,2018,2019,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+741,CARE PLAN,word,3,6,2004,2016,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+742,CASE MANAGEMENT,word,3,6,2004,2016,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+743,Community,word,3,6,2006,2016,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+744,CORRESPONDENCE & MISC,word,3,6,2018,2021,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+745,Day 1,numbered heading,3,6,2010,2022,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+746,Day 2,numbered heading,3,6,2010,2022,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+747,Day 3,numbered heading,3,6,2010,2022,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+748,FIRE ALARM,word,3,6,2010,2022,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+749,Foundation & Egress,word,3,6,2005,2006,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+750,Health Care Documents,word,3,6,2014,2026,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+751,International,word,3,6,2003,2009,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+752,LOAN AUTHORIZATION,word,3,6,2016,2022,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+753,LOUNGE,word,3,6,2004,2005,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+754,Nominations,word,3,6,2019,2022,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+755,OP REPORTS,word,3,6,2015,2018,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+756,PAYROLL,word,3,6,2004,2017,3.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+757,PLANS,word,3,6,2016,2025,4.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+758,PRIVILEGES,word,3,6,2005,2020,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+759,SCHEDULES,numbered heading,3,6,2011,2023,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+760,STRESS,word,3,6,2010,2026,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+761,SYSTEMS,word,3,6,2005,2020,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+762,Technology,word,3,6,2004,2020,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+763,Trends,word,3,6,2019,2022,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+764,WALLS,word,3,6,2004,2005,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+765,80,number,3,5,2003,2023,6.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+766,90,number,3,5,2003,2023,11.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+767,ADMINISTRATIVE,word,3,5,2015,2022,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+768,Bylaws,word,3,5,2005,2021,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+769,Compensation,word,3,5,2005,2014,3.6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+770,Construction,word,3,5,2004,2016,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+771,CREDENTIALS,word,3,5,2010,2016,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+772,DEBT TO INCOME (DTI),word,3,5,2016,2022,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+773,DEED OF TRUST,word,3,5,2018,2021,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+774,Green Products,word,3,5,2008,2011,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+775,Literature,word,3,5,2003,2016,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+776,MEMBERSHIP,word,3,5,2014,2017,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+777,Plan of Care,word,3,5,2009,2019,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+778,Policy & Procedures,word,3,5,2004,2024,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+779,Presentation,word,3,5,2004,2008,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+780,RX,letter,3,5,2015,2016,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+781,Session 7,numbered heading,3,5,2011,2021,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+782,SOURCE EQUIPMENT,word,3,5,2016,2022,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+783,SUPPORTING DOCUMENTS,word,3,5,2009,2024,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+784,Who We Are,word,3,5,2018,2023,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+785,ZONE VALVES,word,3,5,2016,2022,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+786,1. General Rules,word,3,4,2014,2016,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+787,10. Confined Spaces,word,3,4,2014,2016,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+788,11. Tools & Equipment,word,3,4,2014,2016,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+789,12. Chemicals,word,3,4,2014,2016,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+790,13. First Aid,word,3,4,2014,2016,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+791,14. Respiratory Protection,word,3,4,2014,2016,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+792,15. Office Safety,word,3,4,2014,2016,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+793,16. Definitions,word,3,4,2014,2016,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+794,2. General Work Practices,word,3,4,2014,2016,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+795,3. Overhead Operations,word,3,4,2014,2016,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+796,4. Drawings,word,3,4,2006,2021,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+797,4. Underground Operations,word,3,4,2014,2016,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+798,5. Shop Safety Practices,word,3,4,2014,2016,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+799,6. Switching & Clearance Procedures,word,3,4,2014,2016,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+800,7. Grounding,word,3,4,2014,2016,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+801,73,number,3,4,2005,2023,7.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+802,74,number,3,4,2005,2023,8.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+803,75,number,3,4,2005,2023,9.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+804,76,number,3,4,2005,2023,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+805,77,number,3,4,2005,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+806,78,number,3,4,2005,2023,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+807,79,number,3,4,2005,2023,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+808,8. Transportation,word,3,4,2014,2016,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+809,81,number,3,4,2005,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+810,82,number,3,4,2005,2023,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+811,84,number,3,4,2005,2023,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+812,85,number,3,4,2005,2023,6.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+813,86,number,3,4,2005,2023,7.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+814,87,number,3,4,2005,2023,8.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+815,88,number,3,4,2005,2023,9.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+816,89,number,3,4,2005,2023,10.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+817,9. Traffic Control,word,3,4,2014,2016,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+818,91,number,3,4,2005,2023,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+819,92,number,3,4,2005,2023,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+820,93,number,3,4,2005,2023,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+821,94,number,3,4,2005,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+822,95,number,3,4,2005,2023,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+823,96,number,3,4,2005,2023,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+824,97,number,3,4,2005,2023,5.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+825,98,number,3,4,2005,2023,6.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+826,99,number,3,4,2005,2023,7.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+827,ADVANCED STRATEGIES,word,3,4,2009,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+828,Appendix II,numbered heading,3,4,2006,2010,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+829,BASIC INFORMATION,word,3,4,2015,2016,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+830,CAPABILITIES,word,3,4,2003,2008,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+831,Capability,word,3,4,2007,2008,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+832,Client Profile,word,3,4,2005,2025,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+833,Community Programming Resources,word,3,4,2010,2013,6.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+834,Drawings,word,3,4,2006,2020,5.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+835,E.K.G,word,3,4,2005,2005,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+836,Estimate,word,3,4,2014,2024,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+837,Exterior,exhibit number,3,4,2016,2024,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+838,Federal Return,word,3,4,2022,2024,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+839,Financial / Personal Information,word,3,4,2018,2024,8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+840,FLOOD INSURANCE,word,3,4,2015,2021,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+841,FLOORING,word,3,4,2020,2022,1.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+842,GOVT PMTS/CROP INS,word,3,4,2018,2022,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+843,HEALTH & SAFETY,word,3,4,2006,2013,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+844,Health Data,word,3,4,2010,2013,7.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+845,Health Status,word,3,4,2010,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+846,History physical,word,3,4,2015,2016,1.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+847,INSPECTIONS,word,3,4,2015,2019,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+848,Interior,word,3,4,2016,2024,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+849,INTERNAL SERVICE FUNDS,word,3,4,2005,2022,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+850,INVESTMENT OBJECTIVES,word,3,4,2009,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+851,INVESTMENT STRATEGIES,word,3,4,2009,2014,4.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+852,Marketing Materials,word,3,4,2004,2009,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+853,Package,word,3,4,2014,2025,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+854,PERSONAL TAX PLANNING,word,3,4,2009,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+855,PERSONNEL,word,3,4,2005,2016,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+856,pig,word,3,4,1998,2026,3.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+857,PIPE GUIDES,word,3,4,2006,2013,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+858,Policies & Procedures,word,3,4,2007,2023,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+859,Protection,word,3,4,2018,2022,2.8,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+860,RESOURCE ALLOCATION,word,3,4,2009,2014,5.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+861,Reviews,word,3,4,2014,2021,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+862,Rights,word,3,4,2010,2013,2.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+863,RISK ANALYSIS,word,3,4,2009,2014,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+864,Rules and Regulations,word,3,4,2011,2016,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+865,Social History,word,3,4,2010,2013,1.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+866,Special Objectives/Progress Notes,word,3,4,2010,2013,5.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+867,State Return,word,3,4,2022,2024,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+868,TRAINING NOTES,word,3,4,2021,2026,3.2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+869,Trust Agreement,word,3,4,2021,2024,2.5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+870,VENTILATION,word,3,4,2016,2022,2.4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+871,WASTE ANESTHESIA GAS,word,3,4,2016,2022,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+872,X-RAYS,word,3,4,2013,2016,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+873,ADMISSION,word,3,3,2004,2017,1.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+874,Asset Allocation,word,3,3,2014,2020,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+875,Brochures,word,3,3,2004,2015,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+876,COMPETENCY CHECKLIST,word,3,3,2015,2016,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+877,CREDIT BUREAU,word,3,3,2015,2020,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+878,Customer Installations,word,3,3,2005,2006,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+879,DEPT. ORIENTATION,word,3,3,2015,2016,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+880,DEVOTIONS,word,3,3,2015,2023,1.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+881,DISCHARGE SUMMARY,word,3,3,2015,2021,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+882,DIVISION 1 General Provisions and Covenants,word,3,3,2008,2012,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+883,DIVISION 10 Utility Service Location Details,word,3,3,2008,2012,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+884,DIVISION 11 Demolition,word,3,3,2008,2012,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+885,DIVISION 2 Earthwork,word,3,3,2008,2012,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+886,DIVISION 3 Trench and Trenchless Construction,word,3,3,2008,2012,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+887,DIVISION 4 Sewers and Drains,word,3,3,2008,2012,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+888,DIVISION 5 Water Mains and Appurtenances,word,3,3,2008,2012,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+889,DIVISION 6 Structures for Sanitary and Storm Sewers,word,3,3,2008,2012,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+890,DIVISION 7 Streets and Related Work,word,3,3,2008,2012,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+891,DIVISION 8 Traffic Signals,word,3,3,2008,2012,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+892,DIVISION 9 Site Work and Landscaping,word,3,3,2008,2012,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+893,EDUCATION PROFILE,word,3,3,2015,2016,7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+894,EVENTS,word,3,3,2014,2022,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+895,Fabrics & Finishes,word,3,3,2005,2006,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+896,Filing & Storage,word,3,3,2005,2006,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+897,FINANCIAL SUMMARY,word,3,3,2007,2013,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+898,Floor-to-Ceiling,word,3,3,2005,2006,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+899,Gasoline,word,3,3,1999,2020,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+900,General Correspondence,word,3,3,2005,2015,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+901,Horse,word,3,3,1999,2026,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+902,HOSPITALS,word,3,3,2004,2018,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+903,INCOMING REPORTS,word,3,3,2006,2016,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+904,INDUSTRY OVERVIEW,word,3,3,2008,2014,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+905,Instrumentation,word,3,3,2006,2021,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+906,INTAKE,word,3,3,2015,2021,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+907,Investments,word,3,3,2014,2020,2.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+908,LICENSURE,word,3,3,2015,2016,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+909,Literature & Pricing,word,3,3,2005,2006,1,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+910,Management,word,3,3,2003,2021,5.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+911,MEDICAL HISTORY,word,3,3,2015,2018,6,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+912,Meeting Minutes,word,3,3,2004,2017,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+913,PERFORMANCE APPRAISAL,word,3,3,2015,2016,5,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+914,Preparedness,word,3,3,2013,2020,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+915,Seating,word,3,3,2005,2006,2,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+916,SOCIAL MEDIA,word,3,3,2014,2022,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+917,Sponsors,word,3,3,2004,2011,3.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+918,SUPPLEMENTAL MATERIALS,word,3,3,2004,2023,3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+919,Trustee Instructions,word,3,3,2018,2023,5.3,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+920,VENDORS,word,3,3,2004,2023,4,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+921,YEAR 1,numbered heading,3,3,2009,2014,1.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+922,YEAR 2,numbered heading,3,3,2009,2014,2.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+923,YEAR 3,numbered heading,3,3,2009,2014,3.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
+924,YEAR 4,numbered heading,3,3,2009,2014,4.7,Tabzoola (tabzoola.com),"Anselmo Die & Index production records, aggregated",CC BY 4.0
