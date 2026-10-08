@@ -15,6 +15,7 @@ Source and live pricing: https://tabzoola.com/pricing · Monthly price editions:
 | `binder-tab-sets-by-use.csv` | Ready-made section lists by binder type (estate planning, trust administration, trial notebook, legal exhibits 1-25, wealth management client review, law office case files, real estate closings, CPA workpapers, tax return binders, employee handbooks and more), priced at 25 and 250 sets, with the order page for each |
 | `court-tab-rules.csv` | Court rules on exhibit and appendix tabs from 21 courts (California, New York, Texas, Kentucky, Pennsylvania, immigration court and the Board of Immigration Appeals, the 2nd, 5th, 9th, 11th and Federal Circuits, federal district and bankruptcy courts), including the courts that ban protruding tabs. One row per rule, with the verbatim quote, the official source URL and the date it was checked. Guide: https://tabzoola.com/guides/court-exhibit-tab-rules |
 | `medical-chart-sections.csv` | Chart divider section lists by care setting (physician practice, outpatient clinic, hospital inpatient unit, long-term care resident chart, behavioral health, dental, chiropractic, veterinary, clinical research regulatory binder): the sections in filing order, the tab count and the typical tab cut. Common conventions, not clinical guidance. Live copy: https://tabzoola.com/medical-chart-sections.csv |
+| `index-tab-questions.csv` / `.jsonl` | 890 question-and-answer pairs about custom index tabs, binder dividers and how they are made, ordered and used, in Tabzoola's own words: the FAQs from 124 product pages and 34 guides on tabzoola.com, each with its topic and source URL. Plain-language reference answers (tab cuts, Mylar, collation, punching, lead times, court and binder conventions), not legal or clinical advice. |
 
 ### `custom-index-tab-prices.csv`
 
@@ -42,6 +43,17 @@ Tabzoola's binder capacity figures, the same arithmetic as the free calculator a
 | `applies_to`, `requirement` | What the rule covers and what it asks for, in plain words |
 | `quote` | The rule's own words, verbatim |
 | `official_source`, `checked` | Where the text was read, and when. Rules change: re-check before relying on a row. Not legal advice. |
+
+### `index-tab-questions.csv`
+
+| Column | Meaning |
+|---|---|
+| `question`, `answer` | The question as a buyer asks it, and the answer exactly as the page gives it |
+| `topic` | The page's subject (for example "Estate Planning Binder Tabs") |
+| `source_url`, `source_type` | The tabzoola.com page the pair comes from, and whether it is a product page or a guide |
+| `publisher`, `checked` | Always Tabzoola, and the export date. Prices quoted inside answers are the live prices on that date |
+
+The same rows in JSON Lines: `index-tab-questions.jsonl`.
 
 ## How to cite
 
