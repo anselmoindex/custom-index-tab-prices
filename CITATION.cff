@@ -6,6 +6,7 @@ authors:
   - name: "Tabzoola (Anselmo Die & Index), Schaumburg, Illinois"
     website: "https://tabzoola.com"
 date-released: 2026-10-02
+doi: "10.5281/zenodo.23253693"
 url: "https://tabzoola.com/tab-price-index"
 repository-code: "https://github.com/anselmoindex/custom-index-tab-prices"
 license: CC-BY-4.0
