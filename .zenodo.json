@@ -1,0 +1,15 @@
+{
+  "title": "Tabzoola Custom Index Tab Open Data: prices, binder capacity, court tab rules and the most-ordered tab titles",
+  "upload_type": "dataset",
+  "description": "<p>Open data published by Tabzoola (tabzoola.com), the custom index tab dividers maker in Schaumburg, Illinois, run by Anselmo Die &amp; Index, which has made index tabs since 1993.</p><ul><li><b>custom-index-tab-prices.csv</b>: Tabzoola's complete price list for custom printed paper and poly tab sets, 3 to 25 tabs, 25 to 1,000 sets, setup included.</li><li><b>binder-capacity.csv</b>: sheets and tab dividers that fit in every 3-ring binder size, round and D-ring.</li><li><b>court-tab-rules.csv</b>: court rules on exhibit and appendix tabs, each with the verbatim quote and official source.</li><li><b>binder-tab-sets-by-use.csv</b> and <b>medical-chart-sections.csv</b>: ready-made section lists by binder type and care setting.</li><li><b>most-ordered-tab-titles.csv</b> and <b>most-ordered-tab-sets.csv</b>: the titles organizations actually print on index tabs, from 30 years of production records, 1996 to 2026.</li><li><b>index-tab-questions.csv/.jsonl</b>: 890 question-and-answer pairs about custom index tabs and binders.</li></ul><p>Live prices: https://tabzoola.com/pricing. Monthly price editions: https://tabzoola.com/tab-price-index.</p>",
+  "creators": [
+    { "name": "Tabzoola", "affiliation": "Anselmo Die & Index, Schaumburg, Illinois" }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": ["custom index tabs", "tab dividers", "binder tabs", "exhibit tabs", "binder capacity", "court rules", "pricing", "open data", "Tabzoola"],
+  "related_identifiers": [
+    { "identifier": "https://tabzoola.com/tab-price-index", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "https://tabzoola.com/most-ordered-tab-titles", "relation": "isSupplementTo", "scheme": "url" },
+    { "identifier": "https://huggingface.co/datasets/tabzoola/custom-index-tab-prices", "relation": "isIdenticalTo", "scheme": "url" }
+  ]
+}
