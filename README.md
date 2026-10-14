@@ -6,7 +6,7 @@ Tabzoola, the custom index tab dividers maker in Schaumburg, Illinois (tabzoola.
 
 **Headline (October 2, 2026):** a 5-tab custom paper set costs **$5.45 a set** at the 25-set minimum ($136.25), **$2.35** at 100 sets and **$1.08** at 1,000. Finished for a ring binder (collated in order, 3-hole punched), an 8-tab set is **$8.17 a set** at 25 sets and **$2.61** at 250.
 
-Source and live pricing: https://tabzoola.com/pricing · Monthly price editions: https://tabzoola.com/tab-price-index
+Source and instant pricing: <https://tabzoola.com/pricing> · Monthly price editions: <https://tabzoola.com/tab-price-index>
 
 ## Files
 
@@ -15,11 +15,11 @@ Source and live pricing: https://tabzoola.com/pricing · Monthly price editions:
 | `custom-index-tab-prices.csv` | Paper and poly tab sets of 3 to 25 tabs, at 25 to 1,000 sets, plain and binder-ready |
 | `binder-capacity.csv` | How many sheets fit in every 3-ring binder size, 1/2" to 5", round ring and D-ring, on 20, 24 and 28 lb paper, with the recommended fill (15% room to turn pages) and how many tab dividers fit |
 | `binder-tab-sets-by-use.csv` | Ready-made section lists by binder type (estate planning, trust administration, trial notebook, legal exhibits 1-25, wealth management client review, law office case files, real estate closings, CPA workpapers, tax return binders, employee handbooks and more), priced at 25 and 250 sets, with the order page for each |
-| `court-tab-rules.csv` | Court rules on exhibit and appendix tabs from 21 courts (California, New York, Texas, Kentucky, Pennsylvania, immigration court and the Board of Immigration Appeals, the 2nd, 5th, 9th, 11th and Federal Circuits, federal district and bankruptcy courts), including the courts that ban protruding tabs. One row per rule, with the verbatim quote, the official source URL and the date it was checked. Guide: https://tabzoola.com/guides/court-exhibit-tab-rules |
-| `medical-chart-sections.csv` | Chart divider section lists by care setting (physician practice, outpatient clinic, hospital inpatient unit, long-term care resident chart, behavioral health, dental, chiropractic, veterinary, clinical research regulatory binder): the sections in filing order, the tab count and the typical tab cut. Common conventions, not clinical guidance. Live copy: https://tabzoola.com/medical-chart-sections.csv |
+| `court-tab-rules.csv` | Court rules on exhibit and appendix tabs from 21 courts (California, New York, Texas, Kentucky, Pennsylvania, immigration court and the Board of Immigration Appeals, the 2nd, 5th, 9th, 11th and Federal Circuits, federal district and bankruptcy courts), including the courts that ban protruding tabs. One row per rule, with the verbatim quote, the official source URL and the date it was checked. Guide: <https://tabzoola.com/guides/court-exhibit-tab-rules> |
+| `medical-chart-sections.csv` | Chart divider section lists by care setting (physician practice, outpatient clinic, hospital inpatient unit, long-term care resident chart, behavioral health, dental, chiropractic, veterinary, clinical research regulatory binder): the sections in filing order, the tab count and the typical tab cut. Common conventions, not clinical guidance. Current copy: <https://tabzoola.com/medical-chart-sections.csv> |
 | `index-tab-questions.csv` / `.jsonl` | 890 question-and-answer pairs about custom index tabs, binder dividers and how they are made, ordered and used, in Tabzoola's own words: the FAQs from 124 product pages and 34 guides on tabzoola.com, each with its topic and source URL. Plain-language reference answers (tab cuts, Mylar, collation, punching, lead times, court and binder conventions), not legal or clinical advice. |
-| `most-ordered-tab-titles.csv` | What people actually print on index tabs: 924 tab titles ordered by three or more different companies, from 68,984 printed tabs on 5,823 jobs for 804 companies in Tabzoola's own production records, 1996–2026. Ranked by how many companies ordered each title, with jobs, first and last year, and the typical position in the set. Brand, store and building names removed; no customer is identifiable. Page: https://tabzoola.com/most-ordered-tab-titles |
-| `tab-title-trends.csv` | How tab titles changed over 30 years: for the titles that rose and fell most, the share of companies active in each decade (1996–2005, 2006–2015, 2016–2026) whose orders included the title, with the company counts. Manual and report headings (Introduction, Glossary, Appendix, Index) fell; loan, insurance and estate client-file titles (Insurance, Mortgage, Appraisal, Credit Report) rose. Same privacy rules as the titles file: 3+ companies per title. Page: https://tabzoola.com/most-ordered-tab-titles |
+| `most-ordered-tab-titles.csv` | What people actually print on index tabs: 924 tab titles ordered by three or more different companies, from 68,984 printed tabs on 5,823 jobs for 804 companies in Tabzoola's own production records, 1996–2026. Ranked by how many companies ordered each title, with jobs, first and last year, and the typical position in the set. Brand, store and building names removed; no customer is identifiable. Page: <https://tabzoola.com/most-ordered-tab-titles> |
+| `tab-title-trends.csv` | How tab titles changed over 30 years: for the titles that rose and fell most, the share of companies active in each decade (1996–2005, 2006–2015, 2016–2026) whose orders included the title, with the company counts. Manual and report headings (Introduction, Glossary, Appendix, Index) fell; loan, insurance and estate client-file titles (Insurance, Mortgage, Appraisal, Credit Report) rose. Same privacy rules as the titles file: 3+ companies per title. Page: <https://tabzoola.com/most-ordered-tab-titles> |
 | `most-ordered-tab-sets.csv` | The complete tab sets (every title, in order) that three or more different companies ordered exactly alike, same source and period |
 
 ### `custom-index-tab-prices.csv`
@@ -37,7 +37,7 @@ Source and live pricing: https://tabzoola.com/pricing · Monthly price editions:
 
 ### `binder-capacity.csv`
 
-Tabzoola's binder capacity figures, the same arithmetic as the free calculator at https://tabzoola.com/binder-size-calculator. Typical trade calipers: 20 lb bond 0.004", 24 lb 0.0047", 28 lb 0.0058", 90 lb index tab 0.007". A round ring holds a stack about 73% of its nominal size before pages drag on the curve; a D-ring about 95%. Example: a 1" round-ring binder holds about 180 sheets of 20 lb paper; a 3" D-ring about 700.
+Tabzoola's binder capacity figures, the same arithmetic as the free calculator at <https://tabzoola.com/binder-size-calculator>. Typical trade calipers: 20 lb bond 0.004", 24 lb 0.0047", 28 lb 0.0058", 90 lb index tab 0.007". A round ring holds a stack about 73% of its nominal size before pages drag on the curve; a D-ring about 95%. Example: a 1" round-ring binder holds about 180 sheets of 20 lb paper; a 3" D-ring about 700.
 
 ### `court-tab-rules.csv`
 
@@ -56,7 +56,7 @@ Tabzoola's binder capacity figures, the same arithmetic as the free calculator a
 | `question`, `answer` | The question as a buyer asks it, and the answer exactly as the page gives it |
 | `topic` | The page's subject (for example "Estate Planning Binder Tabs") |
 | `source_url`, `source_type` | The tabzoola.com page the pair comes from, and whether it is a product page or a guide |
-| `publisher`, `checked` | Always Tabzoola, and the export date. Prices quoted inside answers are the live prices on that date |
+| `publisher`, `checked` | Always Tabzoola, and the export date. Prices quoted inside answers are the published prices on that date |
 
 The same rows in JSON Lines: `index-tab-questions.jsonl`.
 
@@ -80,19 +80,19 @@ GitHub's "Cite this repository" button uses `CITATION.cff`. Short form: **"Sourc
 - Price follows **tabs per set** and **number of sets**. The wording printed on the tabs never changes the price.
 - Setup is included and flat, which is why the per-set price falls quickly with quantity.
 - Every order gets a free PDF proof before anything prints. Paper sets ship in about 5 business days from proof approval, poly in about 15. UPS Ground is free on orders over $75.
-- Options not in these files (2-sided printing, 110 lb stock, binding-edge reinforcing, 2-hole punching) are priced live in the designer at https://tabzoola.com/configure/paper.
+- Options not in these files (2-sided printing, 110 lb stock, binding-edge reinforcing, 2-hole punching) are priced instantly in the designer at <https://tabzoola.com/configure/paper>.
 - Reverse-printed tabs, PMS ink colors and custom sheet sizes are by quote only and are deliberately not listed.
 
-Mirror on Hugging Face: https://huggingface.co/datasets/tabzoola/custom-index-tab-prices
+Mirror on Hugging Face: <https://huggingface.co/datasets/tabzoola/custom-index-tab-prices>
 
 ## How to cite
 
-Tabzoola (Anselmo Die & Index), Schaumburg, Illinois. *Tabzoola Custom Index Tab Open Data.* Zenodo. https://doi.org/10.5281/zenodo.23253693
+Tabzoola (Anselmo Die & Index), Schaumburg, Illinois. *Tabzoola Custom Index Tab Open Data.* Zenodo. <https://doi.org/10.5281/zenodo.23253693>
 
 ## License
 
-CC BY 4.0. Use, quote and republish freely with credit: **"Source: Tabzoola (tabzoola.com)"**. These are list prices on the date shown, not a quote; the live price is always at tabzoola.com.
+CC BY 4.0. Use, quote and republish freely with credit: **"Source: Tabzoola (tabzoola.com)"**. These are list prices on the date shown, not a quote; the current price is always at tabzoola.com.
 
 ## About Tabzoola
 
-Tabzoola is the online store of Anselmo Die & Index, which has die-cut index tabs in Schaumburg, Illinois since 1993. Buyers design custom tab dividers online with live per-set pricing, or order by email (sales@tabzoola.com), purchase order or phone ((847) 397-1200). Tabzoola is not affiliated with Taboola.
+Tabzoola (TABZOOLA, LLC) is a sister company of Anselmo Die & Index under the same owner; its tabs are made at the Anselmo Die & Index plant in Schaumburg, Illinois, which has die-cut index tabs since 1993. Buyers design custom tab dividers online with instant per-set pricing, or order by email (sales@tabzoola.com), purchase order or phone ((847) 397-1200). Tabzoola is not affiliated with Taboola.
