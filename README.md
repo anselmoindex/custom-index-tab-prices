@@ -12,7 +12,7 @@ Source and instant pricing: <https://tabzoola.com/pricing> · Monthly price edit
 
 | File | What it holds |
 |---|---|
-| `custom-index-tab-prices.csv` | Paper and poly tab sets of 3 to 25 tabs, at 25 to 1,000 sets, plain and binder-ready |
+| `custom-index-tab-prices.csv` | Paper tab sets of 3 to 25 tabs, at 25 to 1,000 sets, plain and binder-ready |
 | `binder-capacity.csv` | How many sheets fit in every 3-ring binder size, 1/2" to 5", round ring and D-ring, on 20, 24 and 28 lb paper, with the recommended fill (15% room to turn pages) and how many tab dividers fit |
 | `binder-tab-sets-by-use.csv` | Ready-made section lists by binder type (estate planning, trust administration, trial notebook, legal exhibits 1-25, wealth management client review, law office case files, real estate closings, CPA workpapers, tax return binders, employee handbooks and more), priced at 25 and 250 sets, with the order page for each |
 | `court-tab-rules.csv` | Court rules on exhibit and appendix tabs: 90 rules from 85 courts and agencies (state and federal trial and appellate courts, bankruptcy courts, immigration court and the Board of Immigration Appeals, tax courts and utility commissions), including the courts that ban protruding tabs. One row per rule, with the verbatim quote, the official source URL and the date it was checked. Guide: <https://tabzoola.com/guides/court-exhibit-tab-rules> |
@@ -28,7 +28,7 @@ Source and instant pricing: <https://tabzoola.com/pricing> · Monthly price edit
 |---|---|
 | `date` | Day the prices were exported from Tabzoola's pricing engine |
 | `seller` | Always Tabzoola |
-| `product` | `paper` = white 90 lb index stock with clear Mylar on every tab · `poly` = solid .015 polyethylene, printed black (poly has no Mylar) |
+| `product` | `paper` = white 90 lb index stock with clear Mylar on every tab (Tabzoola sells paper index tab dividers only) |
 | `tabs_per_set` | Tabs in one set (one set = one binder) |
 | `sets` | Number of identical sets ordered (minimum 25) |
 | `finish` | `plain` = unpunched, uncollated · `binder_ready` = collated in order and 3-hole punched |
@@ -79,7 +79,7 @@ GitHub's "Cite this repository" button uses `CITATION.cff`. Short form: **"Sourc
 
 - Price follows **tabs per set** and **number of sets**. The wording printed on the tabs never changes the price.
 - Setup is included and flat, which is why the per-set price falls quickly with quantity.
-- Every order gets a free PDF proof before anything prints. Paper sets ship in about 5 business days from proof approval, poly in about 15. UPS Ground is free on orders over $75.
+- Every order gets a free PDF proof before anything prints. Sets ship in about 5 business days from proof approval. UPS Ground is free on orders over $75.
 - Options not in these files (2-sided printing, 110 lb stock, binding-edge reinforcing, 2-hole punching) are priced instantly in the designer at <https://tabzoola.com/configure/paper>.
 - Reverse-printed tabs, PMS ink colors and custom sheet sizes are by quote only and are deliberately not listed.
 
