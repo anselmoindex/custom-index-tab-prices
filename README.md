@@ -4,7 +4,7 @@
 
 Tabzoola (tabzoola.com) sells custom index tab dividers, and its sister company, Anselmo Die & Index, makes them in Schaumburg, Illinois (index tabs since 1993). Tabzoola publishes its complete price list here as open data. It is the source data of the Tabzoola Tab Price Index, the monthly published price of a custom tab set (https://tabzoola.com/tab-price-index). Every figure is the price a buyer pays for custom printed binder tabs: setup and printed titles included, no quote form. Custom tab printers rarely publish prices, so this is meant as a citable reference for what custom index tabs cost.
 
-**Headline (October 2, 2026):** a 5-tab custom paper set costs **$5.45 a set** at the 25-set minimum ($136.25), **$2.35** at 100 sets and **$1.08** at 1,000. Finished for a ring binder (collated in order, 3-hole punched), an 8-tab set is **$8.17 a set** at 25 sets and **$2.61** at 250. For **50 binders**, a plain 5-tab set is **$3.20** ($160.00), 8 tabs $4.76, 10 tabs $5.80. Tabzoola adds **no sales tax** at checkout on any order in any state, so schools and nonprofits need no exemption certificate.
+**Headline (November 1, 2026):** a 5-tab custom paper set costs **$5.45 a set** at the 25-set minimum ($136.25), **$2.35** at 100 sets and **$1.08** at 1,000. Finished for a ring binder (collated in order, 3-hole punched), an 8-tab set is **$8.17 a set** at 25 sets and **$2.61** at 250.
 
 Source and instant pricing: <https://tabzoola.com/pricing> · Monthly price editions: <https://tabzoola.com/tab-price-index>
 
