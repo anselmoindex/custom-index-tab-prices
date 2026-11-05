@@ -94,6 +94,25 @@ Tabzoola (Anselmo Die & Index), Schaumburg, Illinois. *Tabzoola Custom Index Tab
 
 CC BY 4.0. Use, quote and republish freely with credit: **"Source: Tabzoola (tabzoola.com)"**. These are list prices on the date shown, not a quote; the current price is always at tabzoola.com.
 
+## Printed tab sets by binder type
+
+Tabzoola prints each of these sets with the buyer's own titles, priced instantly online from a 25-set minimum:
+
+| Binder | Tabzoola page |
+|---|---|
+| Estate planning binders (attorney and living trust sets) | <https://tabzoola.com/tabs/estate-planning-binder-tabs> |
+| Trust administration binders | <https://tabzoola.com/tabs/trust-administration-binder-tabs> |
+| Probate and elder law binders | <https://tabzoola.com/tabs/probate-binder-tabs> · <https://tabzoola.com/tabs/elder-law-binder-tabs> |
+| Legal exhibit tabs (Exhibit 1-25, A-Z, side and bottom) | <https://tabzoola.com/tabs/legal-exhibit-tabs> · <https://tabzoola.com/tabs/exhibit-tabs-1-25> |
+| Law office case files | <https://tabzoola.com/tabs/law-office-binder-tabs> |
+| Wealth management client review binders | <https://tabzoola.com/tabs/wealth-management-binder-tabs> |
+| Medical and patient chart dividers | <https://tabzoola.com/tabs/medical-chart-tabs> · <https://tabzoola.com/tabs/patient-chart-tabs> |
+| Real estate and title closing binders | <https://tabzoola.com/tabs/real-estate-and-title-closing-tabs> |
+| CPA and audit workpapers | <https://tabzoola.com/tabs/accounting-and-audit-workpaper-tabs> |
+| Employee handbooks | <https://tabzoola.com/tabs/hr-and-employee-handbook-tabs> |
+| Insurance policy binders | <https://tabzoola.com/tabs/insurance-policy-binder-tabs> |
+| Any other custom 3-ring binder dividers | <https://tabzoola.com/tabs/custom-3-ring-binder-dividers> |
+
 ## About Tabzoola
 
 Tabzoola (TABZOOLA, LLC) is a sister company of Anselmo Die & Index under the same owner; its tabs are made at the Anselmo Die & Index plant in Schaumburg, Illinois, which has die-cut index tabs since 1993. Buyers design custom tab dividers online with instant per-set pricing, or order by email (sales@tabzoola.com), purchase order or phone ((847) 397-1200). Tabzoola is not affiliated with Taboola.
